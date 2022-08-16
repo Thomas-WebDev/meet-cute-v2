@@ -1,0 +1,18 @@
+{
+  "name": "appleapigoogleapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Thomas Kehoe",
+  "license": "ISC",
+  "dependencies": {
+    "connect-timeout": "^1.9.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "puppeteer": "^11.0.0",
+    "puppeteer-extra-plugin-stealth": "^2.9.0"
+  }
+}
